@@ -1,0 +1,46 @@
+/*menu*/
+header{
+    background: #0B173B;
+    color: white;
+}
+header nav {
+    padding-top: 10px;
+}
+header nav button{
+    font-family: Montserrat;
+    font-size: 10px;
+    background: transparent;
+    border: transparent;
+}
+.sec-white{
+    background: #04B4AE; 
+}
+.font-white{
+    color: white;
+}
+.font-black{
+    color: #0A122A;
+}
+.line-white{
+    display: inline-block;
+    width: 50px; 
+    border-bottom: 3px solid white;
+}
+hr{
+    margin: 0;
+}
+.star-white{
+    margin-top:-20px;
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+.star-black{
+    color: #0A122A;
+    display: inline-block;
+}
+.line-black{
+    display: inline-block;
+    width: 50px; 
+    border-bottom: 3px solid #0A122A;
+}
